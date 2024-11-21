@@ -4,7 +4,7 @@
 
 Google Developer Link : https://g.dev/Perumalmahe2023
  
-Demo Video Link : https://drive.google.com/file/d/1RvZa0X8scAo9ICTlv_BnOQEk_mvpvL1n/view?usp=drivesdk
+Demo Video Link : https://www.figma.com/proto/2oCWhebWoDcSmnxrDH8rDM/Food-Delivery-App?page-id=0%3A1&node-id=235%3A9&viewport=779%2C242%2C0.03&scaling=scale-down&starting-point-node-id=235%3A9
  
 YouTube link - https://youtu.be/T1QuGs9qWdk
  
